@@ -3,7 +3,7 @@
 #### Select "Lists" > "Item List"
    ![Lists > Item List](images/qb_inventory_file/01.png)
 
-#### At the bottom, select the down arrrow next to "Excel"
+#### At the bottom, select the down arrrow next to "Excel" then "Export All Items..."
    ![Excel Arrow](images/qb_inventory_file/02.png)
 
 #### Select "Create a comma separated values (.csv) file"

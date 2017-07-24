@@ -1,4 +1,4 @@
-# Download Inventory File from POS
+# Download Boutique Inventory File from POS
 
 #### Select "Item List"
    ![Item List](images/pos_inventory_file/01.png)
